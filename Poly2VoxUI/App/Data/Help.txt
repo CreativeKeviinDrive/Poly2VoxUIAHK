@@ -1,0 +1,15 @@
+Loading Files onto Poly2vox
+-If you don't know how to load the file onto the gui. make sure you copy your zip file containing the
+3DS and the textures onto The Poly2vox folder containing the Poly2vox.exe!
+
+Converting the Model!
+If you want to convert the model to a .3ds make sure the .PNG files are in a ZIP. but also make sure
+the textures are 8 word-characters or less. otherwise poly2vox will not convert the textures.
+Correct = "Cressela.png"
+Incorrect = "Cresselia.png"
+
+For multiple images you can have more than 1 texture on there.
+
+If you need more help contact me on YouTube
+http://www.youtube.com/user/selectachannel
+
