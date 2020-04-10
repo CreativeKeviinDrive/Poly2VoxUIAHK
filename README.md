@@ -1,9 +1,9 @@
 # Poly2VoxUIAHK
-Poly2VoxUI is a gui Application based off a command-line program by Ken Silverman! it is there to make the command-line easier. however, it is required to install AutoHotKey or Scite4AutoHotkey to run the source code!
+Poly2VoxUI is a gui Application based off a command-line program by Ken Silverman! it is there to make the command-line easier. _however, it is required to install AutoHotKey or Scite4AutoHotkey to run the source code!_
 
-In order to use the Program, you will need a ZIP file with *.3DS as a File Extension with some PNG images!
+In order to use the Program, _you will need a ZIP file with *.3DS as a File Extension with some PNG images!_
 
-TIP: If Poly2Vox doesn't recognize in the command line, then you might need to move the "App" and "Poly2VoxUI.ahk" onto the same directory as where AutohotKey's Executable is Located!
+_TIP: If Poly2Vox doesn't recognize in the command line, then you might need to move the "App" and "Poly2VoxUI.ahk" onto the same directory as where AutohotKey's Executable is Located!_
 
 ___Credits___
 
